@@ -1,0 +1,4 @@
+node_modules
+.env
+products_rest
+cart_rest
